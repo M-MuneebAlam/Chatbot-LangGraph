@@ -11,6 +11,9 @@ venv/
 myenv/
 *.sqlite3
 
+# Database
+chatbot.db
+
 # VS Code
 .vscode/
 
